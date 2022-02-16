@@ -35,22 +35,20 @@ public class curtainMoonController : MonoBehaviour
         // curtain 1 : 4s
         // curtain 2 : 4s
         // curtain 3 : 6s
-        if (Time.time >= 152 && !hasCurtain1Opened) {
+        if (Time.time >= 151 && !hasCurtain1Opened) {
           hasCurtain1Opened = true;
           anim1.SetTrigger("openCurtain");
         }
         
-        if (Time.time >= 158  && !hasCurtain2Opened) {
+        if (Time.time >= 157  && !hasCurtain2Opened) {
           hasCurtain2Opened = true;
           anim2.SetTrigger("openCurtain");
         }
         
-        if (Time.time >= 166 && !hasCurtain3Opened) {
+        if (Time.time >= 165 && !hasCurtain3Opened) {
           hasCurtain3Opened = true;
           anim3.SetTrigger("openCurtain");
         }
-        
-        moonlightIntensity += 0.001f;
 
         if (hasCurtain2Opened) {
           moonlightIntensity += 0.001f;
