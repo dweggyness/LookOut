@@ -18,7 +18,6 @@ public class VideoController : MonoBehaviour
     {
       var video = VideoPlayer.GetComponent<VideoPlayer>();
       if (video) {
-        Debug.Log(isPlayerStarted + " hello " + video.isPlaying);
         if (isPlayerStarted == false && video.isPlaying == true) {
             // When the player is started, set this information
             isPlayerStarted = true;
