@@ -3,7 +3,7 @@
 Experience it
 [Video Demo](https://www.youtube.com/watch?v=90szrUyOUY4)
 
-![Screenshot](https://imgur.com/TzWM0LF)
+![Screenshot](https://www.imgur.com/TzWM0LF.png)
 
 ## Description
 
@@ -15,9 +15,9 @@ The entire project is inspired from an analog-horror channel on Youtube, Local58
 
 The apartment was conceptualized off a Brooklyn apartment, and I started by drawing the layout of the apartment and design it in a way that is livable in real life. Then, I started partitioning and dividing the space into different parts, a kitchen, a living area, a toilet, a bedroom, before furnishing it. After designing a proper apartment, I then began to decompose it, breaking down the symmetry and tidiness of the place to give it the impression of a messy look.
 
-![Screenshot](https://i.imgur.com/rnuaGR7.png)
-![Screenshot](https://i.imgur.com/zOerVDD.png)
-![Screenshot](https://i.imgur.com/osnSwsL.png)
+![Screenshot](https://www.imgur.com/rnuaGR7.png)
+![Screenshot](https://www.imgur.com/zOerVDD.png)
+![Screenshot](https://www.imgur.com/osnSwsL.png)
 
 
 ### Reflection
